@@ -1,35 +1,26 @@
+# Infinite Scroll Website
 
- # Infinite Scroll Website
- A dynamic and responsive web application that displays quotes using PHP, MySQL, AJAX, and Bootstrap 5. The application implements an infinite scroll feature to dynamically load 20 quotes at a time as the user scrolls, improving user experience.
+A dynamic and responsive web application that displays quotes using **PHP**, **MySQL**, **AJAX**, and **Bootstrap 5**. The application implements an infinite scroll feature to dynamically load **20 quotes at a time** as the user scrolls, improving user experience.
 
-Features: 
-- Dynamic Content Loading: Quotes are loaded via AJAX when the user scrolls, displaying 20 quotes per scroll.
-- Responsive Design: Utilizes Bootstrap 5 to create a clean, mobile-friendly layout.
-- Secure Database Interaction: Uses PDO for secure interaction with a MySQL database, ensuring validation and sanitization.
-- Efficient Pagination: Implements OFFSET and LIMIT clauses for optimized data retrieval.
-- Bootstrap 5 Cards: Displays quotes in attractive, responsive Bootstrap cards.
+## Features
+- **Dynamic Content Loading**: Quotes are loaded via **AJAX** as the user scrolls, displaying **20 quotes per scroll** without page reloads.
+- **Responsive Design**: Built with **Bootstrap 5**, ensuring a mobile-friendly and clean layout across all devices.
+- **Secure Database Interaction**: Uses **PDO** for secure interaction with a **MySQL** database, with built-in **validation** and **sanitization** of inputs.
+- **Efficient Pagination**: Implements **OFFSET** and **LIMIT** SQL clauses for optimized data retrieval and performance.
+- **Responsive Bootstrap 5 Cards**: Quotes are displayed in **Bootstrap 5 cards**, ensuring an attractive and responsive presentation.
 
-Technologies Used:
-- PHP
-- MySQL
-- AJAX
-- Bootstrap 5
-- HTML/CSS
-- JavaScript
-- PDO (for database interaction)
-- Setup Instructions
+## Technologies Used
+- **PHP**
+- **MySQL**
+- **AJAX**
+- **Bootstrap 5**
+- **HTML/CSS**
+- **JavaScript**
+- **PDO** (for database interaction)
 
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/repository-name.git
-1.Import the database schema into your MySQL server.
-2.Update your database credentials in the PHP files as needed.
-3.Run the application on a local or remote server with PHP support.
+## Setup Instructions
+To set up the project locally:
 
-How to Contribute
-- Feel free to fork the repository, make improvements, and submit pull requests.
-
-License
-This project is open-source and available under the MIT License.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
