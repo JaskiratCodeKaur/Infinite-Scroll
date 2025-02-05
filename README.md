@@ -21,9 +21,3 @@ A dynamic and responsive web application that displays quotes using **PHP**, **M
 ## How to Contribute
 Fork the repository, make improvements or fixes, and submit pull requests. Contributions are welcome!
 
-## Setup Instructions
-To set up the project locally:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
