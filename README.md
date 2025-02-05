@@ -18,6 +18,9 @@ A dynamic and responsive web application that displays quotes using **PHP**, **M
 - **JavaScript**
 - **PDO** (for database interaction)
 
+## How to Contribute
+Fork the repository, make improvements or fixes, and submit pull requests. Contributions are welcome!
+
 ## Setup Instructions
 To set up the project locally:
 
